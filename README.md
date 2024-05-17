@@ -1,6 +1,6 @@
 # Grand Chronicle
 
-<!-- ![Banner Image](path/to/banner-image.png) -->
+![Banner Image](img/banner.webp)
 
 ## Description
 
