@@ -8,7 +8,12 @@ Grand Chronicle allows users to create fictional characters who experience real 
 
 ## Roadmap
 
-- [ ] **Initial Setup**
+- [x] **Groundwork**
+  - [x] Create README
+  - [x] Add license
+  - [x] Create folder structure
+  - [x] Create .gitignore
+- [ ] **Setup**
   - [ ] Create React frontend
   - [ ] Create Node.js/Express backend
   - [ ] Create MongoDB database
